@@ -1,0 +1,76 @@
+body{
+  background: url(https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/06/12/3220576480.jpg);
+}
+h1{
+  color: white;
+ text-align: center;
+}
+#gambar{
+  width: 8%;
+  padding-top: 20px;
+  padding-left:43rem;
+  /* padding: 0px 0px 30px 20px; */
+}
+#gambar1{
+  width: 8%;
+  margin-left: 43rem;
+  border-radius: 60px;
+}
+/* table{
+  text-align: left;
+} */
+th a{
+  color: white;
+ 
+}
+table{
+ margin-left: 40%;
+}
+/* p{
+  color: white;
+  font-family: Georgia;
+  font-size: 35px;
+  text-align: center;
+} */
+button{
+  text-align: center;
+  background-color: rgb(186, 186, 194);
+  margin-left: 48%;
+  width: 60px;
+  height: 40px;
+  border-radius: 10px;
+}
+button a{
+  color: rgb(17, 13, 7);
+}
+thead img a{
+  display: inline-block; 
+}
+#Aboutme{
+  text-align: justify;
+  font-size: 20px;
+  color: white;
+}
+/* img{
+  margin-left: 46%;
+  border-radius: 50px;
+} */
+legend{
+  padding: 10px;
+  background-color: rgb(167, 158, 158);
+  color: white;
+  font-weight: bold;
+  font-size: 14pt;
+  text-transform: uppercase;
+  font-family:ubuntu ,sans-serif ;
+  letter-spacing: 5px;
+}
+fieldset, legend{
+  border: rgb(108, 108, 116) solid 3px;
+}
+ol { 
+	list-style-image: url("./img/musik.gif"); 
+} 
+ul { 
+	list-style-image: url("./img/nyanyi.gif"); 
+} 
